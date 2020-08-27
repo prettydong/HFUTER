@@ -22,7 +22,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-Time: now
-
-
-Time: 2020-08-27
+First Commit Time: 2020-08-27
