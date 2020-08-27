@@ -1,4 +1,4 @@
-# everyseller
+# HFUTER
 
 ## Project setup
 ```
