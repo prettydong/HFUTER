@@ -1,8 +1,4 @@
 # HFUTER
-<<<<<<< HEAD
-
-=======
->>>>>>> 21ec127ce192d5eff7d766c83cc99b5d4af70107
 ## Project setup
 ```
 npm install
